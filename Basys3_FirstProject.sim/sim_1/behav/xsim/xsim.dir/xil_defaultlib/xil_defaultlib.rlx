@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 19 2021
+03:16:22
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.sim/sim_1/behav/xsim/glbl.v,1634335545,verilog,,,,glbl,,,,,,,,
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/Basys3_top.v,1652768821,verilog,,C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/clock_pll.v,,Basys3_top,,,,,,,,
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/clock_pll.v,1652504199,verilog,,C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/horizontal_sync.v,,clock_pll,,,,,,,,
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/fadder_1bit.v,1651643018,verilog,,C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/fadder_9bit.v,,fadder_1bit,,,,,,,,
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/horizontal_sync.v,1652336669,verilog,,C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/vertical_sync.v,,horizontal_sync,,,,,,,,
+C:/Users/joeyj/Projects/Basys3_FirstProject/Basys3_FirstProject.srcs/sources_1/new/vertical_sync.v,1652336649,verilog,,,,vertical_sync,,,,,,,,

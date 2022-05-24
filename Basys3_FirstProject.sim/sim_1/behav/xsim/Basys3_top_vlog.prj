@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Basys3_FirstProject.srcs/sources_1/new/Basys3_top.v" \
+"../../../../Basys3_FirstProject.srcs/sources_1/new/clock_pll.v" \
+"../../../../Basys3_FirstProject.srcs/sources_1/new/horizontal_sync.v" \
+"../../../../Basys3_FirstProject.srcs/sources_1/new/vertical_sync.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
